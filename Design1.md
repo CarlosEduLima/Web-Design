@@ -3,7 +3,7 @@
 </h1>
 
 <br>
-## 💻 Projeto
+<h3> 💻 Projeto<h3>
 
 <p>This desing was made using the Figma tool</p>
 <br>
